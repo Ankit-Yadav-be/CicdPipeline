@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "node server.js",
-    "test": "echo \"No tests yet\" && exit 0"
-  },
+"scripts": {
+  "start": "node server.js",
+  "test": "echo \"No tests yet\" && exit 0"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
